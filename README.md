@@ -1,1 +1,5 @@
 # C-CourseWork-SKETCH
+
+displayfull is a module used for graphics and one which is heavily used by sketch.c
+sketch.c takes in a .sk file and returns the visual output of this .sk file to the user
+converter.c makes use of displayfull.h to convert .sk images to .pgm images
